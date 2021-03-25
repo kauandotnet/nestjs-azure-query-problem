@@ -20,5 +20,5 @@ Function Runtime Version: 3.0.15371.0
 }
 ```
 
-![Standard response](https://i.ibb.co/YTJT8y6/func.png)
 ![Azure function response](https://i.ibb.co/YTJT8y6/func.png)
+![Standard response](https://i.ibb.co/VpyCsX9/local.png)
